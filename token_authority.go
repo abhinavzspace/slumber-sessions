@@ -1,7 +1,7 @@
 package sessions
 
 import (
-	. "github.com/sogko/slumber-sessions/domain"
+	. "github.com/abhinavzspace/slumber-sessions/domain"
 
 	"fmt"
 	"github.com/dgrijalva/jwt-go"

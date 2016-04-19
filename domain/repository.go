@@ -1,7 +1,7 @@
 package sessions
 
 import (
-	"github.com/sogko/slumber/domain"
+	"github.com/abhinavzspace/slumber/domain"
 )
 
 type IRevokedTokenRepositoryFactory interface {

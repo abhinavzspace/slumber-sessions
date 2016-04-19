@@ -1,9 +1,9 @@
 package sessions
 
 import (
-	. "github.com/sogko/slumber-sessions/domain"
-	usersDomain "github.com/sogko/slumber-users/domain"
-	"github.com/sogko/slumber/domain"
+	. "github.com/abhinavzspace/slumber-sessions/domain"
+	usersDomain "github.com/abhinavzspace/slumber-users/domain"
+	"github.com/abhinavzspace/slumber/domain"
 	"net/http"
 )
 
